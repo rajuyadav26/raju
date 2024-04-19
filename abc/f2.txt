@@ -1,3 +1,1 @@
-Welcome to AWS
-This are the changes done in the remote repository
-Hy Hello How are you?
+Welcome to GITHUB
